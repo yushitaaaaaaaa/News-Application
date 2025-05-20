@@ -7,7 +7,8 @@ import CountrySelector from "../Components/CountrySelector";
 import AsyncStorage from "@react-native-async-storage/async-storage";
 
 export const HomeScreen = () => {
-    const API_KEY = 'aa6dee7f4fdf4b8b85ee745b9f3d15c7';
+    const API_KEY = '{YOUR_API_KEY}';
+
     const [country, setCountry] = useState('us');
     const [news, setNews] = useState([]);
     const [loading, setLoading] = useState(true);
