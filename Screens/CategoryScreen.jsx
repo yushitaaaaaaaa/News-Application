@@ -4,7 +4,7 @@ import { NewsCard } from '../Components/NewsCard';
 import { styles } from './App.styles';
 import CountrySelector from '../Components/CountrySelector';
 
-const API_KEY = 'aa6dee7f4fdf4b8b85ee745b9f3d15c7'; 
+const API_KEY = '{YOUR_API_KEY}'; 
 
 const CategoryScreen = ({ route }) => {
   const { category } = route.params;
