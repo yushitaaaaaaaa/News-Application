@@ -49,7 +49,7 @@ Below are screenshots showcasing the core features and of the **News Application
   <img src="https://github.com/user-attachments/assets/f83a00d5-066c-4fdd-9812-b8ccb6144a0b" alt="Home Screen" width="240"/>  
   <img src="https://github.com/user-attachments/assets/feb62848-ed3f-4061-8c5f-ff029727d459" alt="Read More directs to" width="240"/> 
   <img src="https://github.com/user-attachments/assets/419a6e98-8f9a-47a2-9c57-4d27092257d0" alt="Country Selector Screen" width="240"/>  
-  <img src="" alt="India Screen" width="240"/>  
+  <img src="https://github.com/user-attachments/assets/f375c5e5-1103-4b38-bba6-6fcf9f818694" alt="India Screen" width="240"/>  
   <img src="https://github.com/user-attachments/assets/9abda97d-e8c0-4ae6-ab89-add60b9b7f2e" alt="Drawer Navigation Screen" width="240"/>
   <img src="https://github.com/user-attachments/assets/c3933326-36dd-4e36-8c69-e379a52aa58a" alt"Sports Screen" width="240"/>
   <img src="https://github.com/user-attachments/assets/9cb10f8b-e7aa-4145-b2dc-14ff3f9cbecb" alt="Business Screen" width="240"/>
